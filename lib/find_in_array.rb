@@ -1,3 +1,4 @@
 def find_element_index(array, value_to_find)
-  # Add your solution here
+  x = array.include?(value_to_find)
+  x
 end
